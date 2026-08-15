@@ -1,10 +1,6 @@
 <div align="center">
   <!-- Banner -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudip655/sudip655/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudip655/sudip655/main/dark.svg">
-    <img alt="Sudip Pandey" src="https://raw.githubusercontent.com/sudip655/sudip655/main/dark.svg" width="100%">
-  </picture>
+  
 
   <br/><br/>
 
