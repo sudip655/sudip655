@@ -1,11 +1,12 @@
 <div align="center">
   <!-- Banner -->
-  <img src="https://raw.githubusercontent.com/sudip655/sudip655/output/github-snake-dark.svg" alt="Snake animation" />
+ 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudip655/sudip655/main/dark.svg">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudip655/sudip655/main/light.svg">
  <img alt="Sudip Pandey" src="https://raw.githubusercontent.com/sudip655/sudip655/main/light.svg">
 </picture>
+<img src="https://raw.githubusercontent.com/sudip655/sudip655/output/github-snake-dark.svg" alt="Snake animation" />
   <br/><br/>
   <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/sudip-pandey-6394a5396/">
