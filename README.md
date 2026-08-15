@@ -7,12 +7,6 @@
  <img alt="Sudip Pandey" src="https://raw.githubusercontent.com/sudip655/sudip655/main/light.svg">
 </picture>
   <br/><br/>
-
-  <!-- Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/sudip655/sudip655/output/github-snake-dark.svg" alt="Snake animation" />
-
-  <br/><br/>
-
   <!-- Social Badges -->
   <a href="https://www.linkedin.com/in/sudip-pandey-6394a5396/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
