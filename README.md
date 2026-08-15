@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner -->
-  
+  <img src="https://raw.githubusercontent.com/sudip655/sudip655/output/github-snake-dark.svg" alt="Snake animation" />
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudip655/sudip655/main/dark.svg">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudip655/sudip655/main/light.svg">
