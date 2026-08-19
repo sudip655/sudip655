@@ -15,11 +15,9 @@
 ```
 
 <!-- Banner -->
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudip655/sudip655/main/dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudip655/sudip655/main/light.svg">
- <img alt="Sudip Pandey" src="https://raw.githubusercontent.com/sudip655/sudip655/main/light.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sudip655/sudip655/main/dark.svg" alt="Sudip Pandey" width="100%">
+</p>
 
 <br/><br/>
 
