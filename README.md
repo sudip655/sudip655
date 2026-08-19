@@ -14,6 +14,14 @@
 ```
 </div><div align="center">
   <!-- Banner -->
+  ## 👋 About Me
+
+- 🎓 **Academic Profile:** B.Sc. CSIT Student (2nd Semester) at Butwal Multiple Campus, Nepal.
+- 💻 **Core Specialization:** Full-stack development across web and mobile, working with React, Flutter, and Kotlin.
+- 🔐 **Growing Focus:** Exploring cybersecurity and AI/ML research alongside core development work.
+- 🚀 **Development Philosophy:** Building and shipping real projects while learning — full-stack apps, clean UI, and practical problem-solving over theory alone.
+
+
  
 <br/><br/>
 <!-- Contribution Graph -->
@@ -38,9 +46,3 @@
 
 ---
 
-## 👋 About Me
-
-- 🎓 **Academic Profile:** B.Sc. CSIT Student (2nd Semester) at Butwal Multiple Campus, Nepal.
-- 💻 **Core Specialization:** Full-stack development across web and mobile, working with React, Flutter, and Kotlin.
-- 🔐 **Growing Focus:** Exploring cybersecurity and AI/ML research alongside core development work.
-- 🚀 **Development Philosophy:** Building and shipping real projects while learning — full-stack apps, clean UI, and practical problem-solving over theory alone.
