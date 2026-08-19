@@ -2,7 +2,10 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Web+Developer;Cybersecurity+Enthusiast;AI%2FML+Researcher" alt="Terminal Header" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Web+Developer;Cybersecurity+Enthusiast;AI%2FML+Researcher"
+    alt="Typing Animation"
+  />
 </p>
 
 <!-- ASCII Banner -->
