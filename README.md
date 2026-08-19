@@ -48,7 +48,11 @@
 
 ## 👋 About Me
 
-- 🎓 **Academic Profile:** B.Sc. CSIT Student (2nd Semester) at Butwal Multiple Campus, Nepal.
-- 💻 **Core Specialization:** Full-stack development across web and mobile, working with React, Flutter, and Kotlin.
-- 🔐 **Growing Focus:** Exploring cybersecurity and AI/ML research alongside core development work.
-- 🚀 **Development Philosophy:** Building and shipping real projects while learning — full-stack apps, clean UI, and practical problem-solving over theory alone.
+### 🎓 Academic Profile
+
+* **B.Sc. CSIT Student (2nd Semester)** at Butwal Multiple Campus, Nepal.
+* **💻 Core Expertise:** Passionate about full-stack development, building modern web and software applications with a focus on clean design and real-world problem-solving.
+* **🤖 AI/ML Enthusiast:** Exploring machine learning by training models, experimenting with data, and applying AI techniques to practical projects.
+* **🔐 Expanding Interests:** Continuously learning and exploring the fields of cybersecurity, artificial intelligence, and emerging technologies.
+* **🚀 Development Philosophy:** Learning by building—transforming ideas into impactful projects through hands-on experience, continuous experimentation, and a commitment to creating practical solutions.
+
