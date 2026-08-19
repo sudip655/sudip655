@@ -1,4 +1,18 @@
 <div align="center">
+<!-- PROFILE HERO BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=SUDIP+PANDEY+PROFILE+--INIT;BSC.CSIT+2ND+SEM;FULL+STACK+DEVELOPER" alt="Terminal Header" />
+</p>
+
+```bash
+███████╗██╗   ██╗██████╗ ██╗██████╗         ██████╗  █████╗ ███╗   ██╗██████╗ ███████╗██╗   ██╗
+██╔════╝██║   ██║██╔══██╗██║██╔══██╗        ██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔════╝╚██╗ ██╔╝
+███████╗██║   ██║██║  ██║██║██████╔╝        ██████╔╝███████║██╔██╗ ██║██║  ██║█████╗   ╚████╔╝ 
+╚════██║██║   ██║██║  ██║██║██╔═══╝         ██╔═══╝ ██╔══██║██║╚██╗██║██║  ██║██╔══╝    ╚██╔╝  
+███████║╚██████╔╝██████╔╝██║██║             ██║     ██║  ██║██║ ╚████║██████╔╝███████╗   ██║   
+╚══════╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝             ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝   ╚═╝   
+```
+</div><div align="center">
   <!-- Banner -->
  
 <picture>
