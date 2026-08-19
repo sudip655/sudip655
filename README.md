@@ -15,7 +15,11 @@
 </div><div align="center">
   <!-- Banner -->
  
-<picture>
+<br/><br/>
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudip655&hide_border=true&area=true&bg_color=0A101F&color=E2E8F0&line=A78BFA&point=22D3EE" width="100%" alt="Contribution Graph" />
+</p>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudip655/sudip655/main/dark.svg">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudip655/sudip655/main/light.svg">
  <img alt="Sudip Pandey" src="https://raw.githubusercontent.com/sudip655/sudip655/main/light.svg">
