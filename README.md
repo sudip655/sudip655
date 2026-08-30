@@ -27,7 +27,7 @@
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudip655&hide_border=true&area=true&bg_color=0A101F&color=E2E8F0&line=A78BFA&point=22D3EE" width="100%" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph-eight-bice.vercel.app/graph?username=sudip655&hide_border=true&area=true&bg_color=0A101F&color=E2E8F0&line=A78BFA&point=22D3EE" width="100%" alt="Contribution Graph">
 </p>
 
 <!-- Snake Animation -->
